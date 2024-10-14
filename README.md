@@ -1,2 +1,2 @@
 # mtools_spec
-mtools spec file
+[mtools](https://github.com/troglobit/mtools) spec file
